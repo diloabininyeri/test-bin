@@ -11,5 +11,6 @@
             "email": "berxudar@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "bin":["bin/test-bin"]
 }
