@@ -12,5 +12,5 @@
         }
     ],
     "require": {},
-    "bin":["bin/test-bin"]
+    "bin":["test-bin"]
 }
