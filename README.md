@@ -3,12 +3,12 @@
 the simple executable script from vendor bin directory
 
 
-# for install 
+### for install 
 
 ```console
 composer require zeus/bin-test
 ```
-# for test
+### for test
 
 ```console
 php vendor/bin/test-bin
