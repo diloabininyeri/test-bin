@@ -1,0 +1,15 @@
+{
+    "name": "zeus/bin-test",
+    "autoload": {
+        "psr-4": {
+            "Zeus\\BinTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dılo sürücü",
+            "email": "berxudar@gmail.com"
+        }
+    ],
+    "require": {}
+}
