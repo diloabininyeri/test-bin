@@ -1,5 +1,6 @@
 {
     "name": "zeus/bin-test",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Zeus\\BinTest\\": "src/"
